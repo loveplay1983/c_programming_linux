@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /courses/cic6006/clanguage/ExerciseFiles</title>
+ </head>
+ <body>
+<h1>Index of /courses/cic6006/clanguage/ExerciseFiles</h1>
+<pre><img src="/icons/blank.gif" alt="Icon "> <a href="?C=N;O=A">Name</a>                    <a href="?C=M;O=D">Last modified</a>      <a href="?C=S;O=A">Size</a>  <a href="?C=D;O=A">Description</a><hr><img src="/icons/back.gif" alt="[DIR]"> <a href="/courses/cic6006/clanguage/">Parent Directory</a>                             -   
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="01-04_welcome">01-04_welcome</a>           06-Jan-2016 08:30  8.2K  
+<img src="/icons/text.gif" alt="[TXT]"> <a href="01-04_welcome.c">01-04_welcome.c</a>         06-Jan-2016 08:30   88   
+<img src="/icons/unknown.gif" alt="[   ]"> <a href="01-04_welcome.o">01-04_welcome.o</a>         06-Jan-2016 08:30  784   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-02_empty.c">02-02_empty.c</a>           06-Jan-2016 08:30   58   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-06_printf.c">02-06_printf.c</a>          06-Jan-2016 08:30  135   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-12_value1.c">02-12_value1.c</a>          06-Jan-2016 08:30   83   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-12_value2.c">02-12_value2.c</a>          06-Jan-2016 08:30   92   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-12_value3.c">02-12_value3.c</a>          06-Jan-2016 08:30   89   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-12_value4.c">02-12_value4.c</a>          06-Jan-2016 08:30   90   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-13_variable1.c">02-13_variable1.c</a>       06-Jan-2016 08:30  126   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-13_variable2.c">02-13_variable2.c</a>       06-Jan-2016 08:30  154   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-13_variable3.c">02-13_variable3.c</a>       06-Jan-2016 08:30  137   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-13_variable4.c">02-13_variable4.c</a>       06-Jan-2016 08:30  131   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-14_chario1.c">02-14_chario1.c</a>         06-Jan-2016 08:30  134   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-14_chario2.c">02-14_chario2.c</a>         06-Jan-2016 08:30  210   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-14_chario3.c">02-14_chario3.c</a>         06-Jan-2016 08:30  182   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-15_fgets1.c">02-15_fgets1.c</a>          06-Jan-2016 08:30  212   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-15_scanf1.c">02-15_scanf1.c</a>          06-Jan-2016 08:30  132   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-15_scanf2.c">02-15_scanf2.c</a>          06-Jan-2016 08:30  170   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-15_string1.c">02-15_string1.c</a>         06-Jan-2016 08:30  126   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-16_math1.c">02-16_math1.c</a>           06-Jan-2016 08:30  153   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-16_math2.c">02-16_math2.c</a>           06-Jan-2016 08:30  160   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-16_math3.c">02-16_math3.c</a>           06-Jan-2016 08:30  113   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-16_math4.c">02-16_math4.c</a>           06-Jan-2016 08:30  112   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-17_pow.c">02-17_pow.c</a>             06-Jan-2016 08:30  139   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-17_rand.c">02-17_rand.c</a>            06-Jan-2016 08:30  131   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="02-17_sqrt.c">02-17_sqrt.c</a>            06-Jan-2016 08:30  143   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-01_if1.c">03-01_if1.c</a>             06-Jan-2016 08:30  189   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-01_if2.c">03-01_if2.c</a>             06-Jan-2016 08:30  257   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-01_if3.c">03-01_if3.c</a>             06-Jan-2016 08:30  118   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-01_ifelse.c">03-01_ifelse.c</a>          06-Jan-2016 08:30  262   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-01_ifelseifelse.c">03-01_ifelseifelse.c</a>    06-Jan-2016 08:30  301   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-02_switch1.c">03-02_switch1.c</a>         06-Jan-2016 08:30  357   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-02_switch2.c">03-02_switch2.c</a>         06-Jan-2016 08:30  430   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-03_dowhile.c">03-03_dowhile.c</a>         06-Jan-2016 08:30  142   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-03_while1.c">03-03_while1.c</a>          06-Jan-2016 08:30  117   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-03_while2.c">03-03_while2.c</a>          06-Jan-2016 08:30  224   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-03_whileendless.c">03-03_whileendless.c</a>    06-Jan-2016 08:30  102   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-03_whileendlessbreak.c">03-03_whileendlessbr..&gt;</a> 06-Jan-2016 08:30  134   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-03_whilemod.c">03-03_whilemod.c</a>        06-Jan-2016 08:30  167   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-04_for1.c">03-04_for1.c</a>            06-Jan-2016 08:30   97   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-07_for2.c">03-07_for2.c</a>            06-Jan-2016 08:30  350   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-07_for3.c">03-07_for3.c</a>            06-Jan-2016 08:30  179   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-07_nestedfor1.c">03-07_nestedfor1.c</a>      06-Jan-2016 08:30  391   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-07_nestedfor2.c">03-07_nestedfor2.c</a>      06-Jan-2016 08:30  201   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-08_function1.c">03-08_function1.c</a>       06-Jan-2016 08:30  227   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-08_function2.c">03-08_function2.c</a>       06-Jan-2016 08:30  215   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-08_function3.c">03-08_function3.c</a>       06-Jan-2016 08:30  294   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-09_argument1.c">03-09_argument1.c</a>       06-Jan-2016 08:30  249   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-09_argument2.c">03-09_argument2.c</a>       06-Jan-2016 08:30  318   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-09_argument3.c">03-09_argument3.c</a>       06-Jan-2016 08:30  217   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-09_argument4.c">03-09_argument4.c</a>       06-Jan-2016 08:30  175   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-12_return1.c">03-12_return1.c</a>         06-Jan-2016 08:30  198   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-12_return2.c">03-12_return2.c</a>         06-Jan-2016 08:30  338   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="03-12_return3.c">03-12_return3.c</a>         06-Jan-2016 08:30  395   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-01_ctype1.c">04-01_ctype1.c</a>          06-Jan-2016 08:30  191   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-01_ctype2.c">04-01_ctype2.c</a>          06-Jan-2016 08:30  156   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-01_ctype3.c">04-01_ctype3.c</a>          06-Jan-2016 08:30  176   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-01_ctype4.c">04-01_ctype4.c</a>          06-Jan-2016 08:30  249   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-02_stringmanipulation1.c">04-02_stringmanipula..&gt;</a> 06-Jan-2016 08:30  235   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-02_stringmanipulation2.c">04-02_stringmanipula..&gt;</a> 06-Jan-2016 08:30  259   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-02_stringmanipulation3.c">04-02_stringmanipula..&gt;</a> 06-Jan-2016 08:30  129   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-02_stringmanipulation4.c">04-02_stringmanipula..&gt;</a> 06-Jan-2016 08:30  291   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-02_stringmanipulation5.c">04-02_stringmanipula..&gt;</a> 06-Jan-2016 08:30  295   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-03_constant1.c">04-03_constant1.c</a>       06-Jan-2016 08:30  252   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-03_constant2.c">04-03_constant2.c</a>       06-Jan-2016 08:30  217   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-03_placeholder1.c">04-03_placeholder1.c</a>    06-Jan-2016 08:30  160   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-03_placeholder2.c">04-03_placeholder2.c</a>    06-Jan-2016 08:30  148   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-04_array1.c">04-04_array1.c</a>          06-Jan-2016 08:30  321   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-04_array2.c">04-04_array2.c</a>          06-Jan-2016 08:30  199   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-04_array3.c">04-04_array3.c</a>          06-Jan-2016 08:30  345   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-04_array4.c">04-04_array4.c</a>          06-Jan-2016 08:30   96   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-04_array5.c">04-04_array5.c</a>          06-Jan-2016 08:30  166   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-04_array6.c">04-04_array6.c</a>          06-Jan-2016 08:30  165   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-04_array7.c">04-04_array7.c</a>          06-Jan-2016 08:30  369   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-05_multi1.c">04-05_multi1.c</a>          06-Jan-2016 08:30  348   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-05_multi2.c">04-05_multi2.c</a>          06-Jan-2016 08:30  174   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-08_structure1.c">04-08_structure1.c</a>      06-Jan-2016 08:30  102   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-08_structure2.c">04-08_structure2.c</a>      06-Jan-2016 08:30  223   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-08_structure3.c">04-08_structure3.c</a>      06-Jan-2016 08:30  252   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-08_structure4.c">04-08_structure4.c</a>      06-Jan-2016 08:30  469   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-09_time1.c">04-09_time1.c</a>           06-Jan-2016 08:30  116   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="04-09_time2.c">04-09_time2.c</a>           06-Jan-2016 08:30  276   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-01_var1.c">05-01_var1.c</a>            06-Jan-2016 08:30   95   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-01_var2.c">05-01_var2.c</a>            06-Jan-2016 08:30  128   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-01_var3.c">05-01_var3.c</a>            06-Jan-2016 08:30  189   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-02_pointer1.c">05-02_pointer1.c</a>        06-Jan-2016 08:30  112   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-02_pointer2.c">05-02_pointer2.c</a>        06-Jan-2016 08:30  295   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-05_arraypointer1.c">05-05_arraypointer1.c</a>   06-Jan-2016 08:30  160   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-05_arraypointer2.c">05-05_arraypointer2.c</a>   06-Jan-2016 08:30  227   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-05_arraypointer3.c">05-05_arraypointer3.c</a>   06-Jan-2016 08:30  112   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-05_arraypointer4.c">05-05_arraypointer4.c</a>   06-Jan-2016 08:30  162   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-06_pfunction1.c">05-06_pfunction1.c</a>      06-Jan-2016 08:30  214   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-06_pfunction2.c">05-06_pfunction2.c</a>      06-Jan-2016 08:30  430   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-06_pfunction3.c">05-06_pfunction3.c</a>      06-Jan-2016 08:30  377   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-06_pfunction4.c">05-06_pfunction4.c</a>      06-Jan-2016 08:30  427   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-07_parray1.c">05-07_parray1.c</a>         06-Jan-2016 08:30  193   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-07_parray2.c">05-07_parray2.c</a>         06-Jan-2016 08:30  274   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-08_allocate1.c">05-08_allocate1.c</a>       06-Jan-2016 08:30  345   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-08_allocate2.c">05-08_allocate2.c</a>       06-Jan-2016 08:30  267   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-11_structstruct.c">05-11_structstruct.c</a>    06-Jan-2016 08:30  574   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-12_linkedlist1.c">05-12_linkedlist1.c</a>     06-Jan-2016 08:30  555   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-12_linkedlist2.c">05-12_linkedlist2.c</a>     06-Jan-2016 08:30  704   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-12_linkedlist3.c">05-12_linkedlist3.c</a>     06-Jan-2016 08:30  556   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-12_linkedlist4.c">05-12_linkedlist4.c</a>     06-Jan-2016 08:30  813   
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-12_linkedlist5.c">05-12_linkedlist5.c</a>     06-Jan-2016 08:30  1.0K  
+<img src="/icons/text.gif" alt="[TXT]"> <a href="05-12_linkedlist6.c">05-12_linkedlist6.c</a>     06-Jan-2016 08:30  1.2K  
+<img src="/icons/text.gif" alt="[TXT]"> <a href="test1.c">test1.c</a>                 06-Jan-2016 08:30   12   
+<hr></pre>
+</body></html>
